@@ -1,0 +1,4 @@
+# Project exclude paths
+/dynamicSQL/target/
+/mvc_test/target/
+/out/
